@@ -3,13 +3,16 @@
 }
 
 body{
-    background-color: (204,157,248);
+    background-color:hotpink;
 }
 
 main{
     background-color: white;
-    width: 500px;
+    width: 400px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+img.class, iframe{
+    float: right;
 }
